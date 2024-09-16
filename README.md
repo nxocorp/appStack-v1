@@ -18,3 +18,5 @@
 
 - npm install
 - npm run dev
+
+- npx shadcn-svelte@latest add button dropdown-menu input sheet card checkbox label
